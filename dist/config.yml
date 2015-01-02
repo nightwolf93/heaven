@@ -1,0 +1,10 @@
+network:
+  auth:
+    host: '127.0.0.1'
+    port: 444
+  word:
+    host: '127.0.0.1'
+    port: 5556
+
+database:
+  path: data.db
