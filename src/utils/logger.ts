@@ -18,28 +18,28 @@ module Heaven.Utils {
       this.write('warning', message);
     }
 
-    error(message: string) : void {
+    error(message: string, write: bool = true) : void {
       console.log(('[' + this.name + ']').red + ' : ' + message);
-      this.write('error', message);
+      if(write){
+        this.write('error', message);
+      }
     }
 
     write(from: string, message: string) : void {
       var fs = require('fs');
       var filename = 'logs/' + from + '.log';
       if (fs.existsSync(filename)) {
-        fs.appendFile(filename, '[' + this.getTimeNow() + '][' + this.name + '] : ' + message + '\n', function (err) {
-          return () => {
+        fs.appendFile(filename, '[' + this.getTimeNow() + '][' + this.name + '] : ' + message + '\n', (err) => {
             if(err){
-              this.error("Can't write into log file, check rights on your computer");
+              this.error("Can't write into log file, check rights on your computer", false);
             }
-          };
         });
       }
       else {
         fs.writeFile('logs/' + from + '.log', "Log file created \n================\n", function(err) {
             return () => {
               if(err){
-                this.error("Can't write into log file, check rights on your computer");
+                this.error("Can't write into log file, check rights on your computer", false);
               }
             };
         });

@@ -156,23 +156,21 @@ var Heaven;
                     this.logger = new Heaven.Utils.Logger("AuthServer");
                 }
                 AuthServer.prototype.start = function () {
+                    var _this = this;
                     var net = require('net');
                     net.createServer(function (sock) {
-                        var _this = this;
-                        return function () {
-                            _this.logger('Connection incoming from ' + sock.remoteAddress + ':' + sock.remotePort);
-                            // Add a 'data' event handler to this instance of socket
-                            //sock.on('data', function(data) {
-                            //    console.log('DATA ' + sock.remoteAddress + ': ' + data);
-                            //    // Write the data back to the socket, the client will receive it as data from the server
-                            //    sock.write('You said "' + data + '"');
-                            //});
-                            //
-                            //// Add a 'close' event handler to this instance of socket
-                            //  sock.on('close', function(data) {
-                            //      console.log('CLOSED: ' + sock.remoteAddress +' '+ sock.remotePort);
-                            //  });
-                        };
+                        _this.logger('Connection incoming from ' + sock.remoteAddress + ':' + sock.remotePort);
+                        // Add a 'data' event handler to this instance of socket
+                        //sock.on('data', function(data) {
+                        //    console.log('DATA ' + sock.remoteAddress + ': ' + data);
+                        //    // Write the data back to the socket, the client will receive it as data from the server
+                        //    sock.write('You said "' + data + '"');
+                        //});
+                        //
+                        //// Add a 'close' event handler to this instance of socket
+                        //  sock.on('close', function(data) {
+                        //      console.log('CLOSED: ' + sock.remoteAddress +' '+ sock.remotePort);
+                        //  });
                     }).listen(this.port, this.host);
                     Heaven.Interop.AddonManager.call("onAuthServerStarted", this);
                     this.logger.log('Listen on ' + this.host + ':' + this.port);
@@ -252,21 +250,22 @@ var Heaven;
                 console.log(('[' + this.name + ']').yellow + ' : ' + message);
                 this.write('warning', message);
             };
-            Logger.prototype.error = function (message) {
+            Logger.prototype.error = function (message, write) {
+                if (write === void 0) { write = true; }
                 console.log(('[' + this.name + ']').red + ' : ' + message);
-                this.write('error', message);
+                if (write) {
+                    this.write('error', message);
+                }
             };
             Logger.prototype.write = function (from, message) {
+                var _this = this;
                 var fs = require('fs');
                 var filename = 'logs/' + from + '.log';
                 if (fs.existsSync(filename)) {
                     fs.appendFile(filename, '[' + this.getTimeNow() + '][' + this.name + '] : ' + message + '\n', function (err) {
-                        var _this = this;
-                        return function () {
-                            if (err) {
-                                _this.error("Can't write into log file, check rights on your computer");
-                            }
-                        };
+                        if (err) {
+                            _this.error("Can't write into log file, check rights on your computer", false);
+                        }
                     });
                 }
                 else {
@@ -274,7 +273,7 @@ var Heaven;
                         var _this = this;
                         return function () {
                             if (err) {
-                                _this.error("Can't write into log file, check rights on your computer");
+                                _this.error("Can't write into log file, check rights on your computer", false);
                             }
                         };
                     });
