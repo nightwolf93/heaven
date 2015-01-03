@@ -3,12 +3,14 @@ module Heaven.Network.Auth {
 
     host: string;
     port: int;
+    clients: array;
 
     logger: Utils.Logger;
 
     constructor(host: string, port: int) {
       this.host = host;
       this.port = port;
+      this.clients = new Array();
 
       this.logger = new Utils.Logger("AuthServer");
     }
@@ -16,25 +18,20 @@ module Heaven.Network.Auth {
     start() : void {
       var net = require('net');
       net.createServer((sock) => {
-          this.logger('Connection incoming from ' + sock.remoteAddress +':'+ sock.remotePort);
-
-          // Add a 'data' event handler to this instance of socket
-          //sock.on('data', function(data) {
-
-          //    console.log('DATA ' + sock.remoteAddress + ': ' + data);
-          //    // Write the data back to the socket, the client will receive it as data from the server
-          //    sock.write('You said "' + data + '"');
-
-          //});
-//
-          //// Add a 'close' event handler to this instance of socket
-        //  sock.on('close', function(data) {
-        //      console.log('CLOSED: ' + sock.remoteAddress +' '+ sock.remotePort);
-        //  });
+          this.logger.log('Connection incoming from ' + sock.remoteAddress +':'+ sock.remotePort);
+          var session: AuthSession = new AuthSession(sock);
+          this.clients.push(session);
       }).listen(this.port, this.host);
 
       Interop.AddonManager.call("onAuthServerStarted", this);
       this.logger.log('Listen on ' + this.host + ':' + this.port);
+    }
+
+    removeSession(session) : void {
+      var i = this.clients.indexOf(session);
+      if(i != -1) {
+      	this.clients.splice(i, 1);
+      }
     }
   }
 }

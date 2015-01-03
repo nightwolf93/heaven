@@ -1,6 +1,8 @@
 module Heaven.Utils {
   export class Logger {
 
+    static global: Logger;
+
     name: string;
 
     constructor (name: string){
@@ -16,6 +18,10 @@ module Heaven.Utils {
     warning(message: string) : void {
       console.log(('[' + this.name + ']').yellow + ' : ' + message);
       this.write('warning', message);
+    }
+
+    debug(message: string) : void {
+      console.log(('[' + this.name + ']').cyan + ' : ' + message);
     }
 
     error(message: string, write: bool = true) : void {

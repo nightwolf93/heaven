@@ -9,6 +9,8 @@ module Heaven
     static start() : void {
       console.log('\n');
 
+      Utils.Logger.global = new Utils.Logger("Global");
+      
       Application.logger = new Utils.Logger("Application");
       Application.logger.log('Starting Heaven v' + Definitions.getVersionString() + ' ..');
       Application.logger.log('Please wait, we load some data ..')
@@ -48,7 +50,7 @@ module Heaven
         output: process.stdout
       });
 
-      rl.question("> ", function(answer) {
+      rl.question("", function(answer) {
         //TODO
         rl.close();
         Application.waitInput();
@@ -64,6 +66,8 @@ module Heaven
       patch: 0
     }
     static author: string = "Nightwolf";
+    static deviceName: string = "Heaven";
+    static dofusVersion: string = "1.29.1";
 
     static getVersionString() : string {
       var version = Definitions.version;
