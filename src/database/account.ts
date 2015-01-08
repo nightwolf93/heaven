@@ -1,16 +1,16 @@
 module Heaven.Database {
   export class Account {
 
-    id: int;
+    id: number;
     username: string;
     password: string;
     email: string;
     secretQuestion: string;
     secretAnswer: string;
-    roleId: int;
+    roleId: number;
     nickname: string;
 
-    constructor(id: int, username: string, password: string, email: string, secretQuestion: string, secretAnswer: string, roleId: int, nickname: string){
+    constructor(id: number, username: string, password: string, email: string, secretQuestion: string, secretAnswer: string, roleId: number, nickname: string){
       this.id = id;
       this.username = username;
       this.password = password;
@@ -24,7 +24,7 @@ module Heaven.Database {
     static getAccountByUsername(username: string, callback: any) : Account {
       var db = Manager.db;
       db.get('SELECT * FROM accounts WHERE username=?', [username],
-        function(err: any, row: int){
+        function(err: any, row: number){
           if(err){
             Utils.Logger.global.error('Account->getAccountByUsername >>> An error as occured');
           }

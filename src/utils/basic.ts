@@ -4,16 +4,24 @@ module Heaven.Utils {
     static hash : array = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's',
                 't', 'u', 'v', 'w', 'x', 'y', 'z', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U',
                 'V', 'W', 'X', 'Y', 'Z', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '-', '_'];
+    static cleanHash : array = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's',
+                't', 'u', 'v', 'w', 'x', 'y', 'z', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U',
+                'V', 'W', 'X', 'Y', 'Z'];
 
-    static randomString(length: int) : string {
+    static randomString(length: number, ch: boolean = false) : string {
       var str : string = '';
       for(var i = 0; i <= length; i++){
-        str += Basic.hash[Basic.randomNum(0, Basic.hash.length)];
+        if(ch){
+          str += Basic.cleanHash[Basic.randomNum(0, Basic.cleanHash.length)];
+        }
+        else {
+          str += Basic.hash[Basic.randomNum(0, Basic.hash.length)];
+        }
       }
       return str;
     }
 
-    static randomNum(min: int, max: int) : int {
+    static randomNum(min: number, max: number) : number {
         return Math.floor(Math.random() * (max - min) + min);
     }
 

@@ -3,7 +3,7 @@ module Heaven.Network.Auth {
 
     socket: any;
     logger: Utils.Logger;
-    state: int;
+    state: number;
     key: string;
     account: Database.Account;
 
@@ -24,7 +24,7 @@ module Heaven.Network.Auth {
 
     onData(data: string) : void {
       var packets : Array = data.toString().replace('\x0a', '').split('\x00');
-      for(var i : int in packets){
+      for(var i : number in packets){
         var packet : string = packets[i].trim();
         if(packet != ''){
           this.logger.debug('<<<<< ' + packet);
@@ -37,7 +37,7 @@ module Heaven.Network.Auth {
       Application.authserver.removeSession(this);
 
       this.logger.log('Connection closed by client');
-      Interop.AddonManager.call('onSessionClosed', this);
+      Interop.AddonManager.call('onAuthSessionClosed', this);
     }
 
     send(packet: string) : void {
@@ -59,6 +59,15 @@ module Heaven.Network.Auth {
 
         case 1: // Check account
           this.handleCheckAccount(packet);
+          break;
+
+        case 2: // Server list
+          if(packet.indexOf('Ax') == 0){
+            this.handleServerList(packet);
+          }
+          else {
+            this.handleServerSelection(packet);
+          }
           break;
       }
     }
@@ -89,7 +98,8 @@ module Heaven.Network.Auth {
 
             this.send("Ad" + this.account.nickname);
             this.send("Ac0");
-
+            this.send('AH1;1;75;1');
+            this.send("AlK" + (this.account.roleId > 0 ? 1 : 0));
           }
           else {
             this.send('AlEx');
@@ -99,6 +109,18 @@ module Heaven.Network.Auth {
           this.send('AlEx');
         }
       });
+    }
+
+    handleServerList(packet: string) : void {
+      this.send('AxK100000000000000|1,1');
+    }
+
+    handleServerSelection(packet: string) : void {
+      var id = parseInt(packet.substring(2));
+      var ticket = Utils.Basic.randomString(32);
+      Managers.AuthManager.registerTicket(ticket, this.account);
+
+      this.send('AYK' + Application.config.get().network.world.host + ":" + Application.config.get().network.world.port + ";" + ticket);
     }
   }
 }

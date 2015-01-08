@@ -28,3 +28,1071 @@
 [Friday, January 02, 2015 5:46:41 pm][Application] : Config loaded
 [Friday, January 02, 2015 5:46:41 pm][Application] : Connected to database
 [Friday, January 02, 2015 5:46:41 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 1:59:44 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 1:59:44 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 1:59:44 pm][Application] : Config loaded
+[Saturday, January 03, 2015 1:59:44 pm][Application] : Connected to database
+[Saturday, January 03, 2015 1:59:44 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 2:01:17 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 2:01:17 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 2:01:17 pm][Application] : Config loaded
+[Saturday, January 03, 2015 2:01:17 pm][Application] : Connected to database
+[Saturday, January 03, 2015 2:01:17 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 2:01:19 pm][AuthServer] : Connection incoming from 127.0.0.1:2152
+[Saturday, January 03, 2015 2:01:32 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 2:01:32 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 2:01:32 pm][Application] : Config loaded
+[Saturday, January 03, 2015 2:01:32 pm][Application] : Connected to database
+[Saturday, January 03, 2015 2:01:32 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 2:01:33 pm][AuthServer] : Connection incoming from 127.0.0.1:2153
+[Saturday, January 03, 2015 2:08:52 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 2:08:52 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 2:08:52 pm][Application] : Config loaded
+[Saturday, January 03, 2015 2:08:52 pm][Application] : Connected to database
+[Saturday, January 03, 2015 2:08:52 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 2:09:07 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 2:09:07 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 2:09:07 pm][Application] : Connected to database
+[Saturday, January 03, 2015 2:09:07 pm][Application] : Config loaded
+[Saturday, January 03, 2015 2:09:07 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 2:09:13 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 2:09:13 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 2:09:13 pm][Application] : Config loaded
+[Saturday, January 03, 2015 2:09:13 pm][Application] : Connected to database
+[Saturday, January 03, 2015 2:09:13 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 2:09:16 pm][AuthServer] : Connection incoming from 127.0.0.1:2222
+[Saturday, January 03, 2015 2:09:55 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 2:09:55 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 2:09:55 pm][Application] : Config loaded
+[Saturday, January 03, 2015 2:09:55 pm][Application] : Connected to database
+[Saturday, January 03, 2015 2:09:55 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 2:09:56 pm][AuthServer] : Connection incoming from 127.0.0.1:2225
+[Saturday, January 03, 2015 2:18:35 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 2:18:35 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 2:18:35 pm][Application] : Config loaded
+[Saturday, January 03, 2015 2:18:35 pm][Application] : Connected to database
+[Saturday, January 03, 2015 2:18:35 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 2:18:36 pm][AuthServer] : Connection incoming from 127.0.0.1:2342
+[Saturday, January 03, 2015 2:33:55 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 2:33:55 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 2:33:56 pm][Application] : Config loaded
+[Saturday, January 03, 2015 2:33:56 pm][Application] : Connected to database
+[Saturday, January 03, 2015 2:33:56 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 2:33:57 pm][AuthServer] : Connection incoming from 127.0.0.1:2504
+[Saturday, January 03, 2015 2:34:17 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 2:34:17 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 2:34:17 pm][Application] : Config loaded
+[Saturday, January 03, 2015 2:34:17 pm][Application] : Connected to database
+[Saturday, January 03, 2015 2:34:17 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 2:34:27 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 2:34:27 pm][Application] : Config loaded
+[Saturday, January 03, 2015 2:34:27 pm][Application] : Connected to database
+[Saturday, January 03, 2015 2:34:27 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 2:34:27 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 2:34:27 pm][AuthServer] : Connection incoming from 127.0.0.1:2506
+[Saturday, January 03, 2015 2:35:06 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 2:35:06 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 2:35:06 pm][Application] : Config loaded
+[Saturday, January 03, 2015 2:35:06 pm][Application] : Connected to database
+[Saturday, January 03, 2015 2:35:06 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 2:35:07 pm][AuthServer] : Connection incoming from 127.0.0.1:2510
+[Saturday, January 03, 2015 2:38:25 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 2:38:25 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 2:38:25 pm][Application] : Connected to database
+[Saturday, January 03, 2015 2:38:25 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 2:38:25 pm][Application] : Config loaded
+[Saturday, January 03, 2015 2:38:27 pm][AuthServer] : Connection incoming from 127.0.0.1:2511
+[Saturday, January 03, 2015 2:38:43 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 2:38:43 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 2:38:43 pm][Application] : Config loaded
+[Saturday, January 03, 2015 2:38:43 pm][Application] : Connected to database
+[Saturday, January 03, 2015 2:38:43 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 2:38:44 pm][AuthServer] : Connection incoming from 127.0.0.1:2512
+[Saturday, January 03, 2015 2:39:47 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 2:39:47 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 2:39:47 pm][Application] : Config loaded
+[Saturday, January 03, 2015 2:39:47 pm][Application] : Connected to database
+[Saturday, January 03, 2015 2:39:47 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 2:39:47 pm][AuthServer] : Connection incoming from 127.0.0.1:2533
+[Saturday, January 03, 2015 3:12:15 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 3:12:15 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 3:12:15 pm][Application] : Connected to database
+[Saturday, January 03, 2015 3:12:15 pm][Application] : Config loaded
+[Saturday, January 03, 2015 3:12:15 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 3:12:16 pm][AuthServer] : Connection incoming from 127.0.0.1:2727
+[Saturday, January 03, 2015 3:12:22 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 3:12:22 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 3:12:22 pm][Application] : Config loaded
+[Saturday, January 03, 2015 3:12:22 pm][Application] : Connected to database
+[Saturday, January 03, 2015 3:12:22 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 3:12:23 pm][AuthServer] : Connection incoming from 127.0.0.1:2728
+[Saturday, January 03, 2015 3:23:55 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 3:23:55 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 3:23:55 pm][Application] : Config loaded
+[Saturday, January 03, 2015 3:23:55 pm][Application] : Connected to database
+[Saturday, January 03, 2015 3:23:55 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 3:23:55 pm][AuthServer] : Connection incoming from 127.0.0.1:2750
+[Saturday, January 03, 2015 3:27:45 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 3:27:45 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 3:27:45 pm][Application] : Config loaded
+[Saturday, January 03, 2015 3:27:45 pm][Application] : Connected to database
+[Saturday, January 03, 2015 3:27:45 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 3:27:46 pm][AuthServer] : Connection incoming from 127.0.0.1:2754
+[Saturday, January 03, 2015 3:28:45 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 3:28:45 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 3:28:45 pm][Application] : Config loaded
+[Saturday, January 03, 2015 3:28:45 pm][Application] : Connected to database
+[Saturday, January 03, 2015 3:28:45 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 3:28:46 pm][AuthServer] : Connection incoming from 127.0.0.1:2756
+[Saturday, January 03, 2015 3:30:10 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 3:30:10 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 3:30:10 pm][Application] : Config loaded
+[Saturday, January 03, 2015 3:30:10 pm][Application] : Connected to database
+[Saturday, January 03, 2015 3:30:10 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 3:30:10 pm][AuthServer] : Connection incoming from 127.0.0.1:2760
+[Saturday, January 03, 2015 3:31:28 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 3:31:28 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 3:31:28 pm][Application] : Config loaded
+[Saturday, January 03, 2015 3:31:28 pm][Application] : Connected to database
+[Saturday, January 03, 2015 3:31:28 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 3:31:29 pm][AuthServer] : Connection incoming from 127.0.0.1:2763
+[Saturday, January 03, 2015 3:57:51 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 3:57:51 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 3:57:51 pm][Application] : Config loaded
+[Saturday, January 03, 2015 3:57:51 pm][Application] : Connected to database
+[Saturday, January 03, 2015 3:57:51 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 3:57:52 pm][AuthServer] : Connection incoming from 127.0.0.1:2829
+[Saturday, January 03, 2015 5:30:38 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 5:30:38 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 5:30:38 pm][Application] : Config loaded
+[Saturday, January 03, 2015 5:30:38 pm][Application] : Connected to database
+[Saturday, January 03, 2015 5:30:38 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 5:30:39 pm][AuthServer] : Connection incoming from 127.0.0.1:3623
+[Saturday, January 03, 2015 5:44:03 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 5:44:03 pm][Application] : Config loaded
+[Saturday, January 03, 2015 5:44:03 pm][Application] : Connected to database
+[Saturday, January 03, 2015 5:44:03 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 5:44:03 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 5:44:04 pm][AuthServer] : Connection incoming from 127.0.0.1:3667
+[Saturday, January 03, 2015 5:46:14 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 5:46:14 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 5:46:14 pm][Application] : Config loaded
+[Saturday, January 03, 2015 5:46:14 pm][Application] : Connected to database
+[Saturday, January 03, 2015 5:46:14 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 5:46:15 pm][AuthServer] : Connection incoming from 127.0.0.1:3678
+[Saturday, January 03, 2015 5:46:17 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 5:46:17 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 5:46:17 pm][Application] : Connected to database
+[Saturday, January 03, 2015 5:46:17 pm][Application] : Config loaded
+[Saturday, January 03, 2015 5:46:17 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 5:46:17 pm][AuthServer] : Connection incoming from 127.0.0.1:3679
+[Saturday, January 03, 2015 5:48:08 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 5:48:08 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 5:48:08 pm][Application] : Config loaded
+[Saturday, January 03, 2015 5:48:08 pm][Application] : Connected to database
+[Saturday, January 03, 2015 5:48:08 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 5:48:10 pm][AuthServer] : Connection incoming from 127.0.0.1:3712
+[Saturday, January 03, 2015 5:49:10 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 5:49:10 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 5:49:10 pm][Application] : Connected to database
+[Saturday, January 03, 2015 5:49:10 pm][Application] : Config loaded
+[Saturday, January 03, 2015 5:49:10 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 5:49:11 pm][AuthServer] : Connection incoming from 127.0.0.1:3714
+[Saturday, January 03, 2015 5:50:52 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 5:50:52 pm][Application] : Config loaded
+[Saturday, January 03, 2015 5:50:52 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 5:50:52 pm][Application] : Connected to database
+[Saturday, January 03, 2015 5:50:52 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 5:50:53 pm][AuthServer] : Connection incoming from 127.0.0.1:3717
+[Saturday, January 03, 2015 5:51:13 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 5:51:13 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 5:51:13 pm][Application] : Config loaded
+[Saturday, January 03, 2015 5:51:13 pm][Application] : Connected to database
+[Saturday, January 03, 2015 5:51:13 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 5:51:15 pm][AuthServer] : Connection incoming from 127.0.0.1:3718
+[Saturday, January 03, 2015 5:52:13 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 5:52:13 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 5:52:13 pm][Application] : Config loaded
+[Saturday, January 03, 2015 5:52:13 pm][Application] : Connected to database
+[Saturday, January 03, 2015 5:52:13 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 5:52:14 pm][AuthServer] : Connection incoming from 127.0.0.1:3720
+[Saturday, January 03, 2015 5:52:22 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 5:52:22 pm][Application] : Config loaded
+[Saturday, January 03, 2015 5:52:22 pm][Application] : Connected to database
+[Saturday, January 03, 2015 5:52:22 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 5:52:22 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 5:52:23 pm][AuthServer] : Connection incoming from 127.0.0.1:3721
+[Saturday, January 03, 2015 5:52:36 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 5:52:36 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 5:52:36 pm][Application] : Config loaded
+[Saturday, January 03, 2015 5:52:36 pm][Application] : Connected to database
+[Saturday, January 03, 2015 5:52:36 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 5:52:36 pm][AuthServer] : Connection incoming from 127.0.0.1:3724
+[Saturday, January 03, 2015 5:53:23 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 5:53:23 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 5:53:23 pm][Application] : Config loaded
+[Saturday, January 03, 2015 5:53:23 pm][Application] : Connected to database
+[Saturday, January 03, 2015 5:53:23 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 5:53:25 pm][AuthServer] : Connection incoming from 127.0.0.1:3725
+[Saturday, January 03, 2015 5:53:25 pm][AuthSession(127.0.0.1:3725)] : Connection closed by client
+[Saturday, January 03, 2015 5:56:17 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 5:56:17 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 5:56:17 pm][Application] : Config loaded
+[Saturday, January 03, 2015 5:56:17 pm][Application] : Connected to database
+[Saturday, January 03, 2015 5:56:17 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 5:56:20 pm][AuthServer] : Connection incoming from 127.0.0.1:3795
+[Saturday, January 03, 2015 5:56:20 pm][AuthSession(127.0.0.1:3795)] : Connection closed by client
+[Saturday, January 03, 2015 6:07:27 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 6:07:27 pm][Application] : Config loaded
+[Saturday, January 03, 2015 6:07:27 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 6:07:27 pm][Application] : Connected to database
+[Saturday, January 03, 2015 6:07:27 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 6:07:29 pm][AuthServer] : Connection incoming from 127.0.0.1:3890
+[Saturday, January 03, 2015 6:08:19 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 6:08:19 pm][Application] : Config loaded
+[Saturday, January 03, 2015 6:08:19 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 6:08:19 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 6:08:19 pm][Application] : Connected to database
+[Saturday, January 03, 2015 6:08:19 pm][AuthServer] : Connection incoming from 127.0.0.1:3891
+[Saturday, January 03, 2015 6:08:37 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 6:08:37 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 6:08:37 pm][Application] : Config loaded
+[Saturday, January 03, 2015 6:08:37 pm][Application] : Connected to database
+[Saturday, January 03, 2015 6:08:37 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 6:08:38 pm][AuthServer] : Connection incoming from 127.0.0.1:3893
+[Saturday, January 03, 2015 6:08:38 pm][AuthSession(127.0.0.1:3893)] : Connection closed by client
+[Saturday, January 03, 2015 6:09:04 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 6:09:04 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 6:09:04 pm][Application] : Config loaded
+[Saturday, January 03, 2015 6:09:04 pm][Application] : Connected to database
+[Saturday, January 03, 2015 6:09:04 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 6:09:06 pm][AuthServer] : Connection incoming from 127.0.0.1:3894
+[Saturday, January 03, 2015 6:09:23 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 6:09:23 pm][Application] : Config loaded
+[Saturday, January 03, 2015 6:09:23 pm][Application] : Connected to database
+[Saturday, January 03, 2015 6:09:23 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 6:09:23 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 6:09:24 pm][AuthServer] : Connection incoming from 127.0.0.1:3895
+[Saturday, January 03, 2015 6:09:59 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 6:09:59 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 6:09:59 pm][Application] : Config loaded
+[Saturday, January 03, 2015 6:09:59 pm][Application] : Connected to database
+[Saturday, January 03, 2015 6:09:59 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 6:09:59 pm][AuthServer] : Connection incoming from 127.0.0.1:3897
+[Saturday, January 03, 2015 6:10:17 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 6:10:17 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 6:10:17 pm][Application] : Config loaded
+[Saturday, January 03, 2015 6:10:17 pm][Application] : Connected to database
+[Saturday, January 03, 2015 6:10:17 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 6:10:18 pm][AuthServer] : Connection incoming from 127.0.0.1:3898
+[Saturday, January 03, 2015 6:10:27 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 6:10:27 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 6:10:27 pm][Application] : Config loaded
+[Saturday, January 03, 2015 6:10:27 pm][Application] : Connected to database
+[Saturday, January 03, 2015 6:10:27 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 6:10:28 pm][AuthServer] : Connection incoming from 127.0.0.1:3899
+[Saturday, January 03, 2015 6:11:01 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 6:11:01 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 6:11:01 pm][Application] : Config loaded
+[Saturday, January 03, 2015 6:11:01 pm][Application] : Connected to database
+[Saturday, January 03, 2015 6:11:01 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 6:11:02 pm][AuthServer] : Connection incoming from 127.0.0.1:3902
+[Saturday, January 03, 2015 6:11:20 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 6:11:20 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 6:11:20 pm][Application] : Config loaded
+[Saturday, January 03, 2015 6:11:20 pm][Application] : Connected to database
+[Saturday, January 03, 2015 6:11:20 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 6:11:21 pm][AuthServer] : Connection incoming from 127.0.0.1:3903
+[Saturday, January 03, 2015 6:14:40 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 6:14:40 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 6:14:40 pm][Application] : Config loaded
+[Saturday, January 03, 2015 6:14:40 pm][Application] : Connected to database
+[Saturday, January 03, 2015 6:14:40 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 6:14:41 pm][AuthServer] : Connection incoming from 127.0.0.1:3916
+[Saturday, January 03, 2015 6:16:55 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 6:16:55 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 6:16:55 pm][Application] : Config loaded
+[Saturday, January 03, 2015 6:16:55 pm][Application] : Connected to database
+[Saturday, January 03, 2015 6:16:55 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 6:16:56 pm][AuthServer] : Connection incoming from 127.0.0.1:3935
+[Saturday, January 03, 2015 6:17:24 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 6:17:24 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 6:17:24 pm][Application] : Config loaded
+[Saturday, January 03, 2015 6:17:24 pm][Application] : Connected to database
+[Saturday, January 03, 2015 6:17:24 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 6:17:24 pm][AuthServer] : Connection incoming from 127.0.0.1:3936
+[Saturday, January 03, 2015 6:18:31 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 6:18:31 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 6:18:31 pm][Application] : Config loaded
+[Saturday, January 03, 2015 6:18:31 pm][Application] : Connected to database
+[Saturday, January 03, 2015 6:18:31 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 6:18:31 pm][AuthServer] : Connection incoming from 127.0.0.1:3937
+[Saturday, January 03, 2015 6:18:46 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 6:18:46 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 6:18:46 pm][Application] : Config loaded
+[Saturday, January 03, 2015 6:18:46 pm][Application] : Connected to database
+[Saturday, January 03, 2015 6:18:46 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 6:18:47 pm][AuthServer] : Connection incoming from 127.0.0.1:3938
+[Saturday, January 03, 2015 6:19:20 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 6:19:20 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 6:19:20 pm][Application] : Config loaded
+[Saturday, January 03, 2015 6:19:20 pm][Application] : Connected to database
+[Saturday, January 03, 2015 6:19:20 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 6:19:21 pm][AuthServer] : Connection incoming from 127.0.0.1:3949
+[Saturday, January 03, 2015 6:19:54 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 6:19:54 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 6:19:54 pm][Application] : Config loaded
+[Saturday, January 03, 2015 6:19:54 pm][Application] : Connected to database
+[Saturday, January 03, 2015 6:19:54 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 6:19:54 pm][AuthServer] : Connection incoming from 127.0.0.1:3951
+[Saturday, January 03, 2015 6:20:24 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 6:20:24 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 6:20:24 pm][Application] : Config loaded
+[Saturday, January 03, 2015 6:20:24 pm][Application] : Connected to database
+[Saturday, January 03, 2015 6:20:24 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 6:20:24 pm][AuthServer] : Connection incoming from 127.0.0.1:3953
+[Saturday, January 03, 2015 6:20:50 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 6:20:50 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 6:20:50 pm][Application] : Config loaded
+[Saturday, January 03, 2015 6:20:50 pm][Application] : Connected to database
+[Saturday, January 03, 2015 6:20:50 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 6:20:50 pm][AuthServer] : Connection incoming from 127.0.0.1:3954
+[Saturday, January 03, 2015 6:22:39 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 6:22:39 pm][Application] : Config loaded
+[Saturday, January 03, 2015 6:22:39 pm][Application] : Connected to database
+[Saturday, January 03, 2015 6:22:39 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 6:22:39 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 6:22:40 pm][AuthServer] : Connection incoming from 127.0.0.1:3956
+[Saturday, January 03, 2015 6:23:11 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 6:23:11 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 6:23:11 pm][Application] : Config loaded
+[Saturday, January 03, 2015 6:23:11 pm][Application] : Connected to database
+[Saturday, January 03, 2015 6:23:11 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 6:23:11 pm][AuthServer] : Connection incoming from 127.0.0.1:3958
+[Saturday, January 03, 2015 6:23:11 pm][AuthSession(127.0.0.1:3958)] : Connection closed by client
+[Saturday, January 03, 2015 6:23:23 pm][AuthServer] : Connection incoming from 127.0.0.1:3960
+[Saturday, January 03, 2015 6:26:29 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 6:26:29 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 6:26:29 pm][Application] : Config loaded
+[Saturday, January 03, 2015 6:26:29 pm][Application] : Connected to database
+[Saturday, January 03, 2015 6:26:29 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 6:26:30 pm][AuthServer] : Connection incoming from 127.0.0.1:4000
+[Saturday, January 03, 2015 6:26:47 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 6:26:47 pm][Application] : Config loaded
+[Saturday, January 03, 2015 6:26:47 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 6:26:47 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 6:26:47 pm][Application] : Connected to database
+[Saturday, January 03, 2015 6:26:47 pm][AuthServer] : Connection incoming from 127.0.0.1:4001
+[Saturday, January 03, 2015 6:27:15 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 6:27:15 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 6:27:15 pm][Application] : Config loaded
+[Saturday, January 03, 2015 6:27:15 pm][Application] : Connected to database
+[Saturday, January 03, 2015 6:27:16 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 6:27:17 pm][AuthServer] : Connection incoming from 127.0.0.1:4002
+[Saturday, January 03, 2015 6:27:46 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 6:27:46 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 6:27:47 pm][Application] : Config loaded
+[Saturday, January 03, 2015 6:27:47 pm][Application] : Connected to database
+[Saturday, January 03, 2015 6:27:47 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 6:27:48 pm][AuthServer] : Connection incoming from 127.0.0.1:4004
+[Saturday, January 03, 2015 6:28:09 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 6:28:09 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 6:28:09 pm][Application] : Config loaded
+[Saturday, January 03, 2015 6:28:09 pm][Application] : Connected to database
+[Saturday, January 03, 2015 6:28:09 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 6:28:11 pm][AuthServer] : Connection incoming from 127.0.0.1:4005
+[Saturday, January 03, 2015 6:28:47 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 6:28:47 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 6:28:47 pm][Application] : Config loaded
+[Saturday, January 03, 2015 6:28:47 pm][Application] : Connected to database
+[Saturday, January 03, 2015 6:28:47 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 6:28:48 pm][AuthServer] : Connection incoming from 127.0.0.1:4006
+[Saturday, January 03, 2015 6:28:48 pm][AuthSession(127.0.0.1:4006)] : Connection closed by client
+[Saturday, January 03, 2015 6:28:57 pm][AuthServer] : Connection incoming from 127.0.0.1:4007
+[Saturday, January 03, 2015 6:29:52 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 6:29:52 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 6:29:52 pm][Application] : Config loaded
+[Saturday, January 03, 2015 6:29:52 pm][Application] : Connected to database
+[Saturday, January 03, 2015 6:29:52 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 6:29:59 pm][AuthServer] : Connection incoming from 127.0.0.1:4008
+[Saturday, January 03, 2015 6:30:10 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 6:30:10 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 6:30:10 pm][Application] : Connected to database
+[Saturday, January 03, 2015 6:30:10 pm][Application] : Config loaded
+[Saturday, January 03, 2015 6:30:10 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 6:30:13 pm][AuthServer] : Connection incoming from 127.0.0.1:4011
+[Saturday, January 03, 2015 6:30:13 pm][AuthSession(127.0.0.1:4011)] : Connection closed by client
+[Saturday, January 03, 2015 6:30:16 pm][AuthServer] : Connection incoming from 127.0.0.1:4012
+[Saturday, January 03, 2015 6:30:16 pm][AuthSession(127.0.0.1:4012)] : Connection closed by client
+[Saturday, January 03, 2015 6:30:19 pm][AuthServer] : Connection incoming from 127.0.0.1:4013
+[Saturday, January 03, 2015 8:28:26 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 8:28:26 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 8:28:26 pm][Application] : Config loaded
+[Saturday, January 03, 2015 8:28:26 pm][Application] : Connected to database
+[Saturday, January 03, 2015 8:28:26 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 8:28:27 pm][AuthServer] : Connection incoming from 127.0.0.1:5375
+[Saturday, January 03, 2015 11:01:48 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 11:01:48 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 11:01:48 pm][Application] : Config loaded
+[Saturday, January 03, 2015 11:01:48 pm][Application] : Connected to database
+[Saturday, January 03, 2015 11:01:48 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 11:01:49 pm][AuthServer] : Connection incoming from 127.0.0.1:5704
+[Saturday, January 03, 2015 11:02:42 pm][AuthSession(127.0.0.1:5704)] : Connection closed by client
+[Saturday, January 03, 2015 11:02:48 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 11:02:48 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 11:02:48 pm][Application] : Config loaded
+[Saturday, January 03, 2015 11:02:48 pm][Application] : Connected to database
+[Saturday, January 03, 2015 11:02:48 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 11:02:51 pm][AuthServer] : Connection incoming from 127.0.0.1:5718
+[Saturday, January 03, 2015 11:02:51 pm][AuthSession(127.0.0.1:5718)] : Connection closed by client
+[Saturday, January 03, 2015 11:02:54 pm][AuthServer] : Connection incoming from 127.0.0.1:5719
+[Saturday, January 03, 2015 11:04:53 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 11:04:53 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 11:04:53 pm][Application] : Config loaded
+[Saturday, January 03, 2015 11:04:54 pm][Application] : Connected to database
+[Saturday, January 03, 2015 11:04:54 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 11:04:54 pm][AuthServer] : Connection incoming from 127.0.0.1:5724
+[Saturday, January 03, 2015 11:04:54 pm][AuthSession(127.0.0.1:5724)] : Connection closed by client
+[Saturday, January 03, 2015 11:04:57 pm][AuthServer] : Connection incoming from 127.0.0.1:5725
+[Saturday, January 03, 2015 11:06:01 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 11:06:01 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 11:06:01 pm][Application] : Config loaded
+[Saturday, January 03, 2015 11:06:01 pm][Application] : Connected to database
+[Saturday, January 03, 2015 11:06:01 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 11:06:02 pm][AuthServer] : Connection incoming from 127.0.0.1:5752
+[Saturday, January 03, 2015 11:14:41 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 11:14:41 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 11:14:41 pm][Application] : Config loaded
+[Saturday, January 03, 2015 11:14:41 pm][Application] : Connected to database
+[Saturday, January 03, 2015 11:14:41 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 11:14:45 pm][AuthServer] : Connection incoming from 127.0.0.1:5907
+[Saturday, January 03, 2015 11:15:25 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 11:15:25 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 11:15:25 pm][Application] : Config loaded
+[Saturday, January 03, 2015 11:15:25 pm][Application] : Connected to database
+[Saturday, January 03, 2015 11:15:25 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 11:15:26 pm][AuthServer] : Connection incoming from 127.0.0.1:5912
+[Saturday, January 03, 2015 11:15:27 pm][AuthSession(127.0.0.1:5912)] : Connection closed by client
+[Saturday, January 03, 2015 11:30:18 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 11:30:18 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 11:30:18 pm][Application] : Config loaded
+[Saturday, January 03, 2015 11:30:18 pm][Application] : Connected to database
+[Saturday, January 03, 2015 11:30:18 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 11:30:21 pm][AuthServer] : Connection incoming from 127.0.0.1:5974
+[Saturday, January 03, 2015 11:30:22 pm][AuthSession(127.0.0.1:5974)] : Connection closed by client
+[Saturday, January 03, 2015 11:43:04 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 11:43:04 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 11:43:04 pm][Application] : Config loaded
+[Saturday, January 03, 2015 11:43:04 pm][Application] : Connected to database
+[Saturday, January 03, 2015 11:43:04 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 11:43:04 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Saturday, January 03, 2015 11:43:13 pm][AuthServer] : Connection incoming from 127.0.0.1:6063
+[Saturday, January 03, 2015 11:43:14 pm][AuthSession(127.0.0.1:6063)] : Connection closed by client
+[Saturday, January 03, 2015 11:43:15 pm][WorldServer] : Connection incoming from 127.0.0.1:6064
+[Saturday, January 03, 2015 11:43:36 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 11:43:36 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 11:43:36 pm][Application] : Config loaded
+[Saturday, January 03, 2015 11:43:36 pm][Application] : Connected to database
+[Saturday, January 03, 2015 11:43:36 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 11:43:36 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Saturday, January 03, 2015 11:52:13 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 11:52:13 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 11:52:13 pm][Application] : Config loaded
+[Saturday, January 03, 2015 11:52:13 pm][Application] : Connected to database
+[Saturday, January 03, 2015 11:52:13 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 11:52:13 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Saturday, January 03, 2015 11:52:15 pm][AuthServer] : Connection incoming from 127.0.0.1:6110
+[Saturday, January 03, 2015 11:52:16 pm][AuthSession(127.0.0.1:6110)] : Connection closed by client
+[Saturday, January 03, 2015 11:52:17 pm][WorldServer] : Connection incoming from 127.0.0.1:6111
+[Saturday, January 03, 2015 11:52:53 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Saturday, January 03, 2015 11:52:53 pm][Application] : Please wait, we load some data ..
+[Saturday, January 03, 2015 11:52:53 pm][Application] : Config loaded
+[Saturday, January 03, 2015 11:52:53 pm][Application] : Connected to database
+[Saturday, January 03, 2015 11:52:53 pm][AuthServer] : Listen on 127.0.0.1:444
+[Saturday, January 03, 2015 11:52:53 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Saturday, January 03, 2015 11:52:54 pm][AuthServer] : Connection incoming from 127.0.0.1:6116
+[Saturday, January 03, 2015 11:52:55 pm][AuthSession(127.0.0.1:6116)] : Connection closed by client
+[Saturday, January 03, 2015 11:52:55 pm][WorldServer] : Connection incoming from 127.0.0.1:6117
+[Monday, January 05, 2015 4:26:57 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Monday, January 05, 2015 4:26:57 pm][Application] : Please wait, we load some data ..
+[Monday, January 05, 2015 4:26:57 pm][Application] : Config loaded
+[Monday, January 05, 2015 4:26:57 pm][Application] : Connected to database
+[Monday, January 05, 2015 4:26:57 pm][AuthServer] : Listen on 127.0.0.1:444
+[Monday, January 05, 2015 4:26:57 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Monday, January 05, 2015 4:27:29 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Monday, January 05, 2015 4:27:29 pm][Application] : Please wait, we load some data ..
+[Monday, January 05, 2015 4:27:29 pm][Application] : Config loaded
+[Monday, January 05, 2015 4:27:29 pm][Application] : Connected to database
+[Monday, January 05, 2015 4:27:29 pm][AuthServer] : Listen on 127.0.0.1:444
+[Monday, January 05, 2015 4:27:29 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Monday, January 05, 2015 4:27:36 pm][AuthServer] : Connection incoming from 127.0.0.1:61095
+[Monday, January 05, 2015 4:27:36 pm][AuthSession(127.0.0.1:61095)] : Connection closed by client
+[Monday, January 05, 2015 4:27:40 pm][AuthServer] : Connection incoming from 127.0.0.1:61096
+[Monday, January 05, 2015 4:28:01 pm][AuthSession(127.0.0.1:61096)] : Connection closed by client
+[Monday, January 05, 2015 4:28:01 pm][WorldServer] : Connection incoming from 127.0.0.1:61101
+[Monday, January 05, 2015 7:50:18 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Monday, January 05, 2015 7:50:18 pm][Application] : Please wait, we load some data ..
+[Monday, January 05, 2015 7:50:18 pm][Application] : Config loaded
+[Monday, January 05, 2015 7:50:18 pm][Application] : Connected to database
+[Monday, January 05, 2015 7:50:18 pm][AuthServer] : Listen on 127.0.0.1:444
+[Monday, January 05, 2015 7:50:18 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Monday, January 05, 2015 7:50:19 pm][AuthServer] : Connection incoming from 127.0.0.1:44832
+[Monday, January 05, 2015 7:50:20 pm][AuthSession(127.0.0.1:44832)] : Connection closed by client
+[Monday, January 05, 2015 7:50:21 pm][WorldServer] : Connection incoming from 127.0.0.1:44833
+[Monday, January 05, 2015 7:50:45 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Monday, January 05, 2015 7:50:45 pm][Application] : Please wait, we load some data ..
+[Monday, January 05, 2015 7:50:45 pm][Application] : Config loaded
+[Monday, January 05, 2015 7:50:45 pm][Application] : Connected to database
+[Monday, January 05, 2015 7:50:45 pm][AuthServer] : Listen on 127.0.0.1:444
+[Monday, January 05, 2015 7:50:45 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Monday, January 05, 2015 7:50:46 pm][AuthServer] : Connection incoming from 127.0.0.1:44847
+[Monday, January 05, 2015 7:50:47 pm][AuthSession(127.0.0.1:44847)] : Connection closed by client
+[Monday, January 05, 2015 7:50:47 pm][WorldServer] : Connection incoming from 127.0.0.1:44848
+[Monday, January 05, 2015 7:51:19 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Monday, January 05, 2015 7:51:19 pm][Application] : Please wait, we load some data ..
+[Monday, January 05, 2015 7:51:19 pm][Application] : Config loaded
+[Monday, January 05, 2015 7:51:19 pm][Application] : Connected to database
+[Monday, January 05, 2015 7:51:19 pm][AuthServer] : Listen on 127.0.0.1:444
+[Monday, January 05, 2015 7:51:19 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Monday, January 05, 2015 7:51:20 pm][AuthServer] : Connection incoming from 127.0.0.1:44853
+[Monday, January 05, 2015 7:51:21 pm][AuthSession(127.0.0.1:44853)] : Connection closed by client
+[Monday, January 05, 2015 7:51:21 pm][WorldServer] : Connection incoming from 127.0.0.1:44854
+[Monday, January 05, 2015 7:56:10 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Monday, January 05, 2015 7:56:10 pm][Application] : Please wait, we load some data ..
+[Monday, January 05, 2015 7:56:10 pm][Application] : Config loaded
+[Monday, January 05, 2015 7:56:10 pm][Application] : Connected to database
+[Monday, January 05, 2015 7:56:10 pm][AuthServer] : Listen on 127.0.0.1:444
+[Monday, January 05, 2015 7:56:10 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Monday, January 05, 2015 7:56:28 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Monday, January 05, 2015 7:56:28 pm][Application] : Please wait, we load some data ..
+[Monday, January 05, 2015 7:56:28 pm][Application] : Config loaded
+[Monday, January 05, 2015 7:56:28 pm][Application] : Connected to database
+[Monday, January 05, 2015 7:56:28 pm][AuthServer] : Listen on 127.0.0.1:444
+[Monday, January 05, 2015 7:56:28 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Monday, January 05, 2015 7:56:31 pm][AuthServer] : Connection incoming from 127.0.0.1:44884
+[Monday, January 05, 2015 7:56:32 pm][AuthSession(127.0.0.1:44884)] : Connection closed by client
+[Monday, January 05, 2015 7:56:33 pm][WorldServer] : Connection incoming from 127.0.0.1:44885
+[Monday, January 05, 2015 7:56:33 pm][ApproachHandler] : Account 'test' founded in queue for enter in the world
+[Monday, January 05, 2015 7:57:13 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Monday, January 05, 2015 7:57:13 pm][Application] : Please wait, we load some data ..
+[Monday, January 05, 2015 7:57:13 pm][Application] : Config loaded
+[Monday, January 05, 2015 7:57:13 pm][Application] : Connected to database
+[Monday, January 05, 2015 7:57:13 pm][AuthServer] : Listen on 127.0.0.1:444
+[Monday, January 05, 2015 7:57:13 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Monday, January 05, 2015 7:57:13 pm][AuthServer] : Connection incoming from 127.0.0.1:44894
+[Monday, January 05, 2015 7:57:15 pm][AuthSession(127.0.0.1:44894)] : Connection closed by client
+[Monday, January 05, 2015 7:57:15 pm][WorldServer] : Connection incoming from 127.0.0.1:44895
+[Monday, January 05, 2015 7:57:15 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Monday, January 05, 2015 8:02:23 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Monday, January 05, 2015 8:02:23 pm][Application] : Please wait, we load some data ..
+[Monday, January 05, 2015 8:02:23 pm][Application] : Config loaded
+[Monday, January 05, 2015 8:02:23 pm][Application] : Connected to database
+[Monday, January 05, 2015 8:02:23 pm][AuthServer] : Listen on 127.0.0.1:444
+[Monday, January 05, 2015 8:02:23 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Monday, January 05, 2015 8:02:24 pm][AuthServer] : Connection incoming from 127.0.0.1:44930
+[Monday, January 05, 2015 8:02:25 pm][AuthSession(127.0.0.1:44930)] : Connection closed by client
+[Monday, January 05, 2015 8:02:25 pm][WorldServer] : Connection incoming from 127.0.0.1:44931
+[Monday, January 05, 2015 8:02:25 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Monday, January 05, 2015 8:02:40 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Monday, January 05, 2015 8:02:40 pm][Application] : Please wait, we load some data ..
+[Monday, January 05, 2015 8:02:40 pm][Application] : Config loaded
+[Monday, January 05, 2015 8:02:40 pm][Application] : Connected to database
+[Monday, January 05, 2015 8:02:40 pm][AuthServer] : Listen on 127.0.0.1:444
+[Monday, January 05, 2015 8:02:40 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Monday, January 05, 2015 8:02:41 pm][AuthServer] : Connection incoming from 127.0.0.1:44937
+[Monday, January 05, 2015 8:02:42 pm][AuthSession(127.0.0.1:44937)] : Connection closed by client
+[Monday, January 05, 2015 8:02:42 pm][WorldServer] : Connection incoming from 127.0.0.1:44938
+[Monday, January 05, 2015 8:02:42 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Monday, January 05, 2015 8:05:48 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Monday, January 05, 2015 8:05:48 pm][Application] : Please wait, we load some data ..
+[Monday, January 05, 2015 8:05:48 pm][Application] : Config loaded
+[Monday, January 05, 2015 8:05:48 pm][Application] : Connected to database
+[Monday, January 05, 2015 8:05:48 pm][AuthServer] : Listen on 127.0.0.1:444
+[Monday, January 05, 2015 8:05:48 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Monday, January 05, 2015 8:05:49 pm][AuthServer] : Connection incoming from 127.0.0.1:45008
+[Monday, January 05, 2015 8:05:50 pm][AuthSession(127.0.0.1:45008)] : Connection closed by client
+[Monday, January 05, 2015 8:05:50 pm][WorldServer] : Connection incoming from 127.0.0.1:45009
+[Monday, January 05, 2015 8:05:50 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Monday, January 05, 2015 8:07:31 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Monday, January 05, 2015 8:07:31 pm][Application] : Please wait, we load some data ..
+[Monday, January 05, 2015 8:07:32 pm][Application] : Config loaded
+[Monday, January 05, 2015 8:07:32 pm][Application] : Connected to database
+[Monday, January 05, 2015 8:07:32 pm][AuthServer] : Listen on 127.0.0.1:444
+[Monday, January 05, 2015 8:07:32 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Monday, January 05, 2015 8:07:33 pm][AuthServer] : Connection incoming from 127.0.0.1:45055
+[Monday, January 05, 2015 8:07:34 pm][AuthSession(127.0.0.1:45055)] : Connection closed by client
+[Monday, January 05, 2015 8:07:34 pm][WorldServer] : Connection incoming from 127.0.0.1:45056
+[Monday, January 05, 2015 8:07:34 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Monday, January 05, 2015 8:22:00 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Monday, January 05, 2015 8:22:00 pm][Application] : Config loaded
+[Monday, January 05, 2015 8:22:00 pm][Application] : Please wait, we load some data ..
+[Monday, January 05, 2015 8:22:00 pm][AuthServer] : Listen on 127.0.0.1:444
+[Monday, January 05, 2015 8:22:00 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Monday, January 05, 2015 8:22:00 pm][Application] : Connected to database
+[Monday, January 05, 2015 8:22:01 pm][AuthServer] : Connection incoming from 127.0.0.1:45500
+[Monday, January 05, 2015 8:22:02 pm][AuthSession(127.0.0.1:45500)] : Connection closed by client
+[Monday, January 05, 2015 8:22:03 pm][WorldServer] : Connection incoming from 127.0.0.1:45501
+[Monday, January 05, 2015 8:22:03 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Monday, January 05, 2015 11:27:26 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Monday, January 05, 2015 11:27:26 pm][Application] : Please wait, we load some data ..
+[Monday, January 05, 2015 11:27:26 pm][Application] : Config loaded
+[Monday, January 05, 2015 11:27:26 pm][Application] : Connected to database
+[Monday, January 05, 2015 11:27:26 pm][AuthServer] : Listen on 127.0.0.1:444
+[Monday, January 05, 2015 11:27:26 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Monday, January 05, 2015 11:27:28 pm][AuthServer] : Connection incoming from 127.0.0.1:47199
+[Monday, January 05, 2015 11:27:32 pm][AuthSession(127.0.0.1:47199)] : Connection closed by client
+[Monday, January 05, 2015 11:27:32 pm][WorldServer] : Connection incoming from 127.0.0.1:47200
+[Monday, January 05, 2015 11:27:32 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Tuesday, January 06, 2015 7:20:00 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Tuesday, January 06, 2015 7:20:00 pm][Application] : Please wait, we load some data ..
+[Tuesday, January 06, 2015 7:20:00 pm][Application] : Config loaded
+[Tuesday, January 06, 2015 7:20:01 pm][Application] : Connected to database
+[Tuesday, January 06, 2015 7:20:01 pm][AuthServer] : Listen on 127.0.0.1:444
+[Tuesday, January 06, 2015 7:20:01 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Tuesday, January 06, 2015 7:21:10 pm][AuthServer] : Connection incoming from 127.0.0.1:1780
+[Tuesday, January 06, 2015 7:21:27 pm][AuthSession(127.0.0.1:1780)] : Connection closed by client
+[Tuesday, January 06, 2015 7:21:28 pm][WorldServer] : Connection incoming from 127.0.0.1:1781
+[Tuesday, January 06, 2015 7:21:28 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Tuesday, January 06, 2015 10:10:26 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Tuesday, January 06, 2015 10:10:26 pm][Application] : Please wait, we load some data ..
+[Tuesday, January 06, 2015 10:10:26 pm][Application] : Config loaded
+[Tuesday, January 06, 2015 10:10:26 pm][Application] : Connected to database
+[Tuesday, January 06, 2015 10:10:26 pm][AuthServer] : Listen on 127.0.0.1:444
+[Tuesday, January 06, 2015 10:10:26 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Tuesday, January 06, 2015 10:10:28 pm][AuthServer] : Connection incoming from 127.0.0.1:3780
+[Tuesday, January 06, 2015 10:10:28 pm][AuthSession(127.0.0.1:3780)] : Connection closed by client
+[Tuesday, January 06, 2015 10:10:29 pm][WorldServer] : Connection incoming from 127.0.0.1:3781
+[Tuesday, January 06, 2015 10:10:29 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Tuesday, January 06, 2015 10:11:16 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Tuesday, January 06, 2015 10:11:16 pm][Application] : Please wait, we load some data ..
+[Tuesday, January 06, 2015 10:11:16 pm][Application] : Config loaded
+[Tuesday, January 06, 2015 10:11:16 pm][Application] : Connected to database
+[Tuesday, January 06, 2015 10:11:16 pm][AuthServer] : Listen on 127.0.0.1:444
+[Tuesday, January 06, 2015 10:11:16 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Tuesday, January 06, 2015 10:11:17 pm][AuthServer] : Connection incoming from 127.0.0.1:3785
+[Tuesday, January 06, 2015 10:11:17 pm][AuthSession(127.0.0.1:3785)] : Connection closed by client
+[Tuesday, January 06, 2015 10:11:18 pm][WorldServer] : Connection incoming from 127.0.0.1:3786
+[Tuesday, January 06, 2015 10:11:18 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Tuesday, January 06, 2015 10:12:11 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Tuesday, January 06, 2015 10:12:11 pm][Application] : Please wait, we load some data ..
+[Tuesday, January 06, 2015 10:12:11 pm][Application] : Config loaded
+[Tuesday, January 06, 2015 10:12:11 pm][Application] : Connected to database
+[Tuesday, January 06, 2015 10:12:11 pm][AuthServer] : Listen on 127.0.0.1:444
+[Tuesday, January 06, 2015 10:12:11 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Tuesday, January 06, 2015 10:12:13 pm][AuthServer] : Connection incoming from 127.0.0.1:3792
+[Tuesday, January 06, 2015 10:12:13 pm][AuthSession(127.0.0.1:3792)] : Connection closed by client
+[Tuesday, January 06, 2015 10:12:14 pm][WorldServer] : Connection incoming from 127.0.0.1:3794
+[Tuesday, January 06, 2015 10:12:14 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Tuesday, January 06, 2015 10:13:27 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Tuesday, January 06, 2015 10:13:27 pm][Application] : Please wait, we load some data ..
+[Tuesday, January 06, 2015 10:13:27 pm][Application] : Connected to database
+[Tuesday, January 06, 2015 10:13:27 pm][Application] : Config loaded
+[Tuesday, January 06, 2015 10:13:27 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Tuesday, January 06, 2015 10:13:27 pm][AuthServer] : Listen on 127.0.0.1:444
+[Tuesday, January 06, 2015 10:13:30 pm][AuthServer] : Connection incoming from 127.0.0.1:3837
+[Tuesday, January 06, 2015 10:13:31 pm][AuthSession(127.0.0.1:3837)] : Connection closed by client
+[Tuesday, January 06, 2015 10:13:32 pm][WorldServer] : Connection incoming from 127.0.0.1:3839
+[Tuesday, January 06, 2015 10:13:32 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Tuesday, January 06, 2015 10:13:55 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Tuesday, January 06, 2015 10:13:55 pm][Application] : Please wait, we load some data ..
+[Tuesday, January 06, 2015 10:13:55 pm][Application] : Config loaded
+[Tuesday, January 06, 2015 10:13:55 pm][Application] : Connected to database
+[Tuesday, January 06, 2015 10:13:55 pm][AuthServer] : Listen on 127.0.0.1:444
+[Tuesday, January 06, 2015 10:13:55 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Tuesday, January 06, 2015 10:13:55 pm][AuthServer] : Connection incoming from 127.0.0.1:3846
+[Tuesday, January 06, 2015 10:13:56 pm][AuthSession(127.0.0.1:3846)] : Connection closed by client
+[Tuesday, January 06, 2015 10:13:57 pm][WorldServer] : Connection incoming from 127.0.0.1:3847
+[Tuesday, January 06, 2015 10:13:57 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Tuesday, January 06, 2015 10:15:03 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Tuesday, January 06, 2015 10:15:03 pm][Application] : Please wait, we load some data ..
+[Tuesday, January 06, 2015 10:15:03 pm][Application] : Config loaded
+[Tuesday, January 06, 2015 10:15:03 pm][Application] : Connected to database
+[Tuesday, January 06, 2015 10:15:03 pm][AuthServer] : Listen on 127.0.0.1:444
+[Tuesday, January 06, 2015 10:15:03 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Tuesday, January 06, 2015 10:15:03 pm][AuthServer] : Connection incoming from 127.0.0.1:3859
+[Tuesday, January 06, 2015 10:15:04 pm][AuthSession(127.0.0.1:3859)] : Connection closed by client
+[Tuesday, January 06, 2015 10:15:04 pm][WorldServer] : Connection incoming from 127.0.0.1:3860
+[Tuesday, January 06, 2015 10:15:04 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Tuesday, January 06, 2015 10:18:35 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Tuesday, January 06, 2015 10:18:35 pm][Application] : Please wait, we load some data ..
+[Tuesday, January 06, 2015 10:18:35 pm][Application] : Config loaded
+[Tuesday, January 06, 2015 10:18:35 pm][Application] : Connected to database
+[Tuesday, January 06, 2015 10:18:35 pm][AuthServer] : Listen on 127.0.0.1:444
+[Tuesday, January 06, 2015 10:18:35 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Tuesday, January 06, 2015 10:18:36 pm][AuthServer] : Connection incoming from 127.0.0.1:3912
+[Tuesday, January 06, 2015 10:18:40 pm][AuthSession(127.0.0.1:3912)] : Connection closed by client
+[Tuesday, January 06, 2015 10:18:41 pm][WorldServer] : Connection incoming from 127.0.0.1:3914
+[Tuesday, January 06, 2015 10:18:41 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Tuesday, January 06, 2015 10:19:54 pm][Application] : Please wait, we load some data ..
+[Tuesday, January 06, 2015 10:19:54 pm][Application] : Config loaded
+[Tuesday, January 06, 2015 10:19:54 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Tuesday, January 06, 2015 10:19:54 pm][AuthServer] : Listen on 127.0.0.1:444
+[Tuesday, January 06, 2015 10:19:54 pm][Application] : Connected to database
+[Tuesday, January 06, 2015 10:19:54 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Tuesday, January 06, 2015 10:19:55 pm][AuthServer] : Connection incoming from 127.0.0.1:3930
+[Tuesday, January 06, 2015 10:19:58 pm][AuthSession(127.0.0.1:3930)] : Connection closed by client
+[Tuesday, January 06, 2015 10:19:58 pm][WorldServer] : Connection incoming from 127.0.0.1:3931
+[Tuesday, January 06, 2015 10:19:58 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Tuesday, January 06, 2015 10:20:17 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Tuesday, January 06, 2015 10:20:17 pm][Application] : Please wait, we load some data ..
+[Tuesday, January 06, 2015 10:20:17 pm][Application] : Config loaded
+[Tuesday, January 06, 2015 10:20:17 pm][Application] : Connected to database
+[Tuesday, January 06, 2015 10:20:17 pm][AuthServer] : Listen on 127.0.0.1:444
+[Tuesday, January 06, 2015 10:20:17 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Tuesday, January 06, 2015 10:20:18 pm][AuthServer] : Connection incoming from 127.0.0.1:3937
+[Tuesday, January 06, 2015 10:20:19 pm][AuthSession(127.0.0.1:3937)] : Connection closed by client
+[Tuesday, January 06, 2015 10:20:20 pm][WorldServer] : Connection incoming from 127.0.0.1:3938
+[Tuesday, January 06, 2015 10:20:20 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Tuesday, January 06, 2015 10:20:51 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Tuesday, January 06, 2015 10:20:51 pm][Application] : Please wait, we load some data ..
+[Tuesday, January 06, 2015 10:20:51 pm][Application] : Config loaded
+[Tuesday, January 06, 2015 10:20:51 pm][Application] : Connected to database
+[Tuesday, January 06, 2015 10:20:51 pm][AuthServer] : Listen on 127.0.0.1:444
+[Tuesday, January 06, 2015 10:20:51 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Tuesday, January 06, 2015 10:20:52 pm][AuthServer] : Connection incoming from 127.0.0.1:3949
+[Tuesday, January 06, 2015 10:20:55 pm][AuthSession(127.0.0.1:3949)] : Connection closed by client
+[Tuesday, January 06, 2015 10:20:55 pm][WorldServer] : Connection incoming from 127.0.0.1:3950
+[Tuesday, January 06, 2015 10:20:55 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Tuesday, January 06, 2015 10:22:05 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Tuesday, January 06, 2015 10:22:05 pm][Application] : Please wait, we load some data ..
+[Tuesday, January 06, 2015 10:22:05 pm][Application] : Config loaded
+[Tuesday, January 06, 2015 10:22:05 pm][Application] : Connected to database
+[Tuesday, January 06, 2015 10:22:05 pm][AuthServer] : Listen on 127.0.0.1:444
+[Tuesday, January 06, 2015 10:22:05 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Tuesday, January 06, 2015 10:22:06 pm][AuthServer] : Connection incoming from 127.0.0.1:3961
+[Tuesday, January 06, 2015 10:22:08 pm][AuthSession(127.0.0.1:3961)] : Connection closed by client
+[Tuesday, January 06, 2015 10:22:09 pm][WorldServer] : Connection incoming from 127.0.0.1:3962
+[Tuesday, January 06, 2015 10:22:09 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Tuesday, January 06, 2015 10:22:28 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Tuesday, January 06, 2015 10:22:28 pm][Application] : Please wait, we load some data ..
+[Tuesday, January 06, 2015 10:22:28 pm][Application] : Config loaded
+[Tuesday, January 06, 2015 10:22:28 pm][Application] : Connected to database
+[Tuesday, January 06, 2015 10:22:28 pm][AuthServer] : Listen on 127.0.0.1:444
+[Tuesday, January 06, 2015 10:22:28 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Tuesday, January 06, 2015 10:22:28 pm][AuthServer] : Connection incoming from 127.0.0.1:3968
+[Tuesday, January 06, 2015 10:22:29 pm][AuthSession(127.0.0.1:3968)] : Connection closed by client
+[Tuesday, January 06, 2015 10:22:29 pm][WorldServer] : Connection incoming from 127.0.0.1:3969
+[Tuesday, January 06, 2015 10:22:29 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Tuesday, January 06, 2015 10:22:55 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Tuesday, January 06, 2015 10:22:55 pm][Application] : Config loaded
+[Tuesday, January 06, 2015 10:22:55 pm][Application] : Connected to database
+[Tuesday, January 06, 2015 10:22:55 pm][Application] : Please wait, we load some data ..
+[Tuesday, January 06, 2015 10:22:55 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Tuesday, January 06, 2015 10:22:55 pm][AuthServer] : Listen on 127.0.0.1:444
+[Tuesday, January 06, 2015 10:22:56 pm][AuthServer] : Connection incoming from 127.0.0.1:3974
+[Tuesday, January 06, 2015 10:22:56 pm][AuthSession(127.0.0.1:3974)] : Connection closed by client
+[Tuesday, January 06, 2015 10:22:57 pm][WorldServer] : Connection incoming from 127.0.0.1:3975
+[Tuesday, January 06, 2015 10:22:57 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Tuesday, January 06, 2015 10:23:19 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Tuesday, January 06, 2015 10:23:20 pm][Application] : Config loaded
+[Tuesday, January 06, 2015 10:23:20 pm][Application] : Connected to database
+[Tuesday, January 06, 2015 10:23:20 pm][AuthServer] : Listen on 127.0.0.1:444
+[Tuesday, January 06, 2015 10:23:19 pm][Application] : Please wait, we load some data ..
+[Tuesday, January 06, 2015 10:23:20 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Tuesday, January 06, 2015 10:23:21 pm][AuthServer] : Connection incoming from 127.0.0.1:3980
+[Tuesday, January 06, 2015 10:23:22 pm][AuthSession(127.0.0.1:3980)] : Connection closed by client
+[Tuesday, January 06, 2015 10:23:23 pm][WorldServer] : Connection incoming from 127.0.0.1:3981
+[Tuesday, January 06, 2015 10:23:23 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Tuesday, January 06, 2015 10:25:27 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Tuesday, January 06, 2015 10:25:27 pm][Application] : Please wait, we load some data ..
+[Tuesday, January 06, 2015 10:25:27 pm][Application] : Config loaded
+[Tuesday, January 06, 2015 10:25:27 pm][Application] : Connected to database
+[Tuesday, January 06, 2015 10:25:27 pm][AuthServer] : Listen on 127.0.0.1:444
+[Tuesday, January 06, 2015 10:25:27 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Tuesday, January 06, 2015 10:25:28 pm][AuthServer] : Connection incoming from 127.0.0.1:3992
+[Tuesday, January 06, 2015 10:28:14 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Tuesday, January 06, 2015 10:28:14 pm][Application] : Please wait, we load some data ..
+[Tuesday, January 06, 2015 10:28:14 pm][Application] : Config loaded
+[Tuesday, January 06, 2015 10:28:14 pm][Application] : Connected to database
+[Tuesday, January 06, 2015 10:28:14 pm][AuthServer] : Listen on 127.0.0.1:444
+[Tuesday, January 06, 2015 10:28:14 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Tuesday, January 06, 2015 10:28:16 pm][AuthServer] : Connection incoming from 127.0.0.1:3996
+[Tuesday, January 06, 2015 10:28:17 pm][AuthSession(127.0.0.1:3996)] : Connection closed by client
+[Tuesday, January 06, 2015 10:28:17 pm][WorldServer] : Connection incoming from 127.0.0.1:3997
+[Tuesday, January 06, 2015 10:28:17 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Tuesday, January 06, 2015 10:29:09 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Tuesday, January 06, 2015 10:29:09 pm][Application] : Please wait, we load some data ..
+[Tuesday, January 06, 2015 10:29:09 pm][Application] : Config loaded
+[Tuesday, January 06, 2015 10:29:09 pm][Application] : Connected to database
+[Tuesday, January 06, 2015 10:29:09 pm][AuthServer] : Listen on 127.0.0.1:444
+[Tuesday, January 06, 2015 10:29:09 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Tuesday, January 06, 2015 10:29:10 pm][AuthServer] : Connection incoming from 127.0.0.1:4003
+[Tuesday, January 06, 2015 10:29:15 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Tuesday, January 06, 2015 10:29:15 pm][Application] : Please wait, we load some data ..
+[Tuesday, January 06, 2015 10:29:15 pm][Application] : Config loaded
+[Tuesday, January 06, 2015 10:29:15 pm][Application] : Connected to database
+[Tuesday, January 06, 2015 10:29:15 pm][AuthServer] : Listen on 127.0.0.1:444
+[Tuesday, January 06, 2015 10:29:15 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Tuesday, January 06, 2015 10:29:16 pm][AuthServer] : Connection incoming from 127.0.0.1:4009
+[Tuesday, January 06, 2015 10:30:22 pm][AuthSession(127.0.0.1:4009)] : Connection closed by client
+[Tuesday, January 06, 2015 10:30:23 pm][WorldServer] : Connection incoming from 127.0.0.1:4013
+[Tuesday, January 06, 2015 10:30:23 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Tuesday, January 06, 2015 10:30:56 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Tuesday, January 06, 2015 10:30:56 pm][Application] : Please wait, we load some data ..
+[Tuesday, January 06, 2015 10:30:56 pm][Application] : Config loaded
+[Tuesday, January 06, 2015 10:30:56 pm][Application] : Connected to database
+[Tuesday, January 06, 2015 10:30:56 pm][AuthServer] : Listen on 127.0.0.1:444
+[Tuesday, January 06, 2015 10:30:56 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Tuesday, January 06, 2015 10:30:58 pm][AuthServer] : Connection incoming from 127.0.0.1:4021
+[Tuesday, January 06, 2015 10:30:59 pm][AuthSession(127.0.0.1:4021)] : Connection closed by client
+[Tuesday, January 06, 2015 10:30:59 pm][WorldServer] : Connection incoming from 127.0.0.1:4022
+[Tuesday, January 06, 2015 10:30:59 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Tuesday, January 06, 2015 10:49:55 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Tuesday, January 06, 2015 10:49:55 pm][Application] : Please wait, we load some data ..
+[Tuesday, January 06, 2015 10:49:55 pm][Application] : Config loaded
+[Tuesday, January 06, 2015 10:49:55 pm][Application] : Connected to database
+[Tuesday, January 06, 2015 10:49:55 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Tuesday, January 06, 2015 10:49:55 pm][AuthServer] : Listen on 127.0.0.1:444
+[Tuesday, January 06, 2015 10:49:56 pm][AuthServer] : Connection incoming from 127.0.0.1:4081
+[Tuesday, January 06, 2015 10:49:57 pm][AuthSession(127.0.0.1:4081)] : Connection closed by client
+[Tuesday, January 06, 2015 10:49:57 pm][WorldServer] : Connection incoming from 127.0.0.1:4082
+[Tuesday, January 06, 2015 10:49:57 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Tuesday, January 06, 2015 11:24:05 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Tuesday, January 06, 2015 11:24:05 pm][Application] : Please wait, we load some data ..
+[Tuesday, January 06, 2015 11:24:05 pm][Application] : Config loaded
+[Tuesday, January 06, 2015 11:24:05 pm][Application] : Connected to database
+[Tuesday, January 06, 2015 11:24:05 pm][AuthServer] : Listen on 127.0.0.1:444
+[Tuesday, January 06, 2015 11:24:05 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Tuesday, January 06, 2015 11:24:06 pm][AuthServer] : Connection incoming from 127.0.0.1:4549
+[Tuesday, January 06, 2015 11:24:07 pm][AuthSession(127.0.0.1:4549)] : Connection closed by client
+[Tuesday, January 06, 2015 11:24:08 pm][WorldServer] : Connection incoming from 127.0.0.1:4550
+[Tuesday, January 06, 2015 11:24:53 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Tuesday, January 06, 2015 11:24:53 pm][Application] : Please wait, we load some data ..
+[Tuesday, January 06, 2015 11:24:53 pm][Application] : Config loaded
+[Tuesday, January 06, 2015 11:24:53 pm][Application] : Connected to database
+[Tuesday, January 06, 2015 11:24:53 pm][AuthServer] : Listen on 127.0.0.1:444
+[Tuesday, January 06, 2015 11:24:53 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Tuesday, January 06, 2015 11:24:53 pm][AuthServer] : Connection incoming from 127.0.0.1:4564
+[Tuesday, January 06, 2015 11:24:54 pm][AuthSession(127.0.0.1:4564)] : Connection closed by client
+[Tuesday, January 06, 2015 11:24:55 pm][WorldServer] : Connection incoming from 127.0.0.1:4565
+[Tuesday, January 06, 2015 11:24:55 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Tuesday, January 06, 2015 11:25:14 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Tuesday, January 06, 2015 11:25:14 pm][Application] : Please wait, we load some data ..
+[Tuesday, January 06, 2015 11:25:14 pm][Application] : Config loaded
+[Tuesday, January 06, 2015 11:25:14 pm][Application] : Connected to database
+[Tuesday, January 06, 2015 11:25:14 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Tuesday, January 06, 2015 11:25:14 pm][AuthServer] : Listen on 127.0.0.1:444
+[Tuesday, January 06, 2015 11:25:15 pm][AuthServer] : Connection incoming from 127.0.0.1:4570
+[Tuesday, January 06, 2015 11:25:16 pm][AuthSession(127.0.0.1:4570)] : Connection closed by client
+[Tuesday, January 06, 2015 11:25:17 pm][WorldServer] : Connection incoming from 127.0.0.1:4571
+[Tuesday, January 06, 2015 11:25:17 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Tuesday, January 06, 2015 11:25:20 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Tuesday, January 06, 2015 11:25:20 pm][Application] : Please wait, we load some data ..
+[Tuesday, January 06, 2015 11:25:20 pm][Application] : Config loaded
+[Tuesday, January 06, 2015 11:25:20 pm][Application] : Connected to database
+[Tuesday, January 06, 2015 11:25:20 pm][AuthServer] : Listen on 127.0.0.1:444
+[Tuesday, January 06, 2015 11:25:20 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Tuesday, January 06, 2015 11:25:21 pm][AuthServer] : Connection incoming from 127.0.0.1:4576
+[Tuesday, January 06, 2015 11:25:21 pm][AuthSession(127.0.0.1:4576)] : Connection closed by client
+[Tuesday, January 06, 2015 11:25:22 pm][WorldServer] : Connection incoming from 127.0.0.1:4577
+[Tuesday, January 06, 2015 11:25:22 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Tuesday, January 06, 2015 11:25:31 pm][Application] : Please wait, we load some data ..
+[Tuesday, January 06, 2015 11:25:31 pm][Application] : Config loaded
+[Tuesday, January 06, 2015 11:25:31 pm][Application] : Connected to database
+[Tuesday, January 06, 2015 11:25:31 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Tuesday, January 06, 2015 11:25:31 pm][AuthServer] : Listen on 127.0.0.1:444
+[Tuesday, January 06, 2015 11:25:31 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Tuesday, January 06, 2015 11:25:32 pm][AuthServer] : Connection incoming from 127.0.0.1:4586
+[Tuesday, January 06, 2015 11:25:32 pm][AuthSession(127.0.0.1:4586)] : Connection closed by client
+[Tuesday, January 06, 2015 11:25:34 pm][AuthServer] : Connection incoming from 127.0.0.1:4587
+[Tuesday, January 06, 2015 11:25:35 pm][AuthSession(127.0.0.1:4587)] : Connection closed by client
+[Tuesday, January 06, 2015 11:25:36 pm][WorldServer] : Connection incoming from 127.0.0.1:4588
+[Tuesday, January 06, 2015 11:25:36 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Tuesday, January 06, 2015 11:26:03 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Tuesday, January 06, 2015 11:26:03 pm][Application] : Please wait, we load some data ..
+[Tuesday, January 06, 2015 11:26:03 pm][Application] : Config loaded
+[Tuesday, January 06, 2015 11:26:03 pm][Application] : Connected to database
+[Tuesday, January 06, 2015 11:26:03 pm][AuthServer] : Listen on 127.0.0.1:444
+[Tuesday, January 06, 2015 11:26:03 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Tuesday, January 06, 2015 11:26:05 pm][AuthServer] : Connection incoming from 127.0.0.1:4594
+[Tuesday, January 06, 2015 11:26:06 pm][AuthSession(127.0.0.1:4594)] : Connection closed by client
+[Tuesday, January 06, 2015 11:26:06 pm][WorldServer] : Connection incoming from 127.0.0.1:4595
+[Tuesday, January 06, 2015 11:26:06 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Tuesday, January 06, 2015 11:30:35 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Tuesday, January 06, 2015 11:30:35 pm][Application] : Config loaded
+[Tuesday, January 06, 2015 11:30:35 pm][Application] : Please wait, we load some data ..
+[Tuesday, January 06, 2015 11:30:35 pm][Application] : Connected to database
+[Tuesday, January 06, 2015 11:30:35 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Tuesday, January 06, 2015 11:30:35 pm][AuthServer] : Listen on 127.0.0.1:444
+[Tuesday, January 06, 2015 11:30:40 pm][AuthServer] : Connection incoming from 127.0.0.1:4612
+[Tuesday, January 06, 2015 11:30:41 pm][AuthSession(127.0.0.1:4612)] : Connection closed by client
+[Tuesday, January 06, 2015 11:30:41 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Tuesday, January 06, 2015 11:30:41 pm][WorldServer] : Connection incoming from 127.0.0.1:4613
+[Tuesday, January 06, 2015 11:30:43 pm][ApproachHandler] : Character 'Kzrcb' created by player 'test'
+[Wednesday, January 07, 2015 8:43:17 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Wednesday, January 07, 2015 8:43:17 pm][Application] : Please wait, we load some data ..
+[Wednesday, January 07, 2015 8:43:17 pm][Application] : Config loaded
+[Wednesday, January 07, 2015 8:43:17 pm][Application] : Connected to database
+[Wednesday, January 07, 2015 8:43:17 pm][AuthServer] : Listen on 127.0.0.1:444
+[Wednesday, January 07, 2015 8:43:17 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Wednesday, January 07, 2015 8:44:05 pm][AuthServer] : Connection incoming from 127.0.0.1:1957
+[Wednesday, January 07, 2015 8:44:11 pm][AuthSession(127.0.0.1:1957)] : Connection closed by client
+[Wednesday, January 07, 2015 8:44:12 pm][WorldServer] : Connection incoming from 127.0.0.1:1959
+[Wednesday, January 07, 2015 8:44:12 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Thursday, January 08, 2015 8:14:40 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Thursday, January 08, 2015 8:14:40 pm][Application] : Please wait, we load some data ..
+[Thursday, January 08, 2015 8:14:40 pm][Application] : Config loaded
+[Thursday, January 08, 2015 8:14:40 pm][Application] : Connected to database
+[Thursday, January 08, 2015 8:14:40 pm][AuthServer] : Listen on 127.0.0.1:444
+[Thursday, January 08, 2015 8:14:40 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Thursday, January 08, 2015 8:46:05 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Thursday, January 08, 2015 8:46:05 pm][Application] : Config loaded
+[Thursday, January 08, 2015 8:46:05 pm][Application] : Please wait, we load some data ..
+[Thursday, January 08, 2015 8:46:05 pm][Application] : Connected to database
+[Thursday, January 08, 2015 8:46:05 pm][AuthServer] : Listen on 127.0.0.1:444
+[Thursday, January 08, 2015 8:46:05 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Thursday, January 08, 2015 8:46:26 pm][AuthServer] : Connection incoming from 127.0.0.1:42362
+[Thursday, January 08, 2015 8:46:27 pm][AuthSession(127.0.0.1:42362)] : Connection closed by client
+[Thursday, January 08, 2015 8:46:27 pm][WorldServer] : Connection incoming from 127.0.0.1:42363
+[Thursday, January 08, 2015 8:46:27 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Thursday, January 08, 2015 8:46:54 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Thursday, January 08, 2015 8:46:54 pm][Application] : Please wait, we load some data ..
+[Thursday, January 08, 2015 8:46:54 pm][Application] : Config loaded
+[Thursday, January 08, 2015 8:46:54 pm][Application] : Connected to database
+[Thursday, January 08, 2015 8:46:54 pm][AuthServer] : Listen on 127.0.0.1:444
+[Thursday, January 08, 2015 8:46:54 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Thursday, January 08, 2015 8:46:55 pm][AuthServer] : Connection incoming from 127.0.0.1:42369
+[Thursday, January 08, 2015 8:46:55 pm][AuthSession(127.0.0.1:42369)] : Connection closed by client
+[Thursday, January 08, 2015 8:46:56 pm][WorldServer] : Connection incoming from 127.0.0.1:42371
+[Thursday, January 08, 2015 8:46:56 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Thursday, January 08, 2015 8:50:22 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Thursday, January 08, 2015 8:50:22 pm][Application] : Please wait, we load some data ..
+[Thursday, January 08, 2015 8:50:22 pm][Application] : Config loaded
+[Thursday, January 08, 2015 8:50:22 pm][Application] : Connected to database
+[Thursday, January 08, 2015 8:50:22 pm][AuthServer] : Listen on 127.0.0.1:444
+[Thursday, January 08, 2015 8:50:22 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Thursday, January 08, 2015 8:50:24 pm][AuthServer] : Connection incoming from 127.0.0.1:42384
+[Thursday, January 08, 2015 8:50:25 pm][AuthSession(127.0.0.1:42384)] : Connection closed by client
+[Thursday, January 08, 2015 8:50:26 pm][WorldServer] : Connection incoming from 127.0.0.1:42385
+[Thursday, January 08, 2015 8:50:26 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Thursday, January 08, 2015 8:50:39 pm][ApproachHandler] : Character 'Zbeec' created by player 'test'
+[Thursday, January 08, 2015 8:50:46 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Thursday, January 08, 2015 8:50:46 pm][Application] : Please wait, we load some data ..
+[Thursday, January 08, 2015 8:50:46 pm][Application] : Config loaded
+[Thursday, January 08, 2015 8:50:46 pm][Application] : Connected to database
+[Thursday, January 08, 2015 8:50:46 pm][AuthServer] : Listen on 127.0.0.1:444
+[Thursday, January 08, 2015 8:50:46 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Thursday, January 08, 2015 8:50:47 pm][AuthServer] : Connection incoming from 127.0.0.1:42391
+[Thursday, January 08, 2015 8:50:47 pm][AuthSession(127.0.0.1:42391)] : Connection closed by client
+[Thursday, January 08, 2015 8:50:50 pm][AuthServer] : Connection incoming from 127.0.0.1:42392
+[Thursday, January 08, 2015 8:50:51 pm][AuthSession(127.0.0.1:42392)] : Connection closed by client
+[Thursday, January 08, 2015 8:50:51 pm][WorldServer] : Connection incoming from 127.0.0.1:42393
+[Thursday, January 08, 2015 8:50:51 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Thursday, January 08, 2015 9:00:18 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Thursday, January 08, 2015 9:00:18 pm][Application] : Please wait, we load some data ..
+[Thursday, January 08, 2015 9:00:18 pm][Application] : Config loaded
+[Thursday, January 08, 2015 9:00:18 pm][Application] : Connected to database
+[Thursday, January 08, 2015 9:00:18 pm][AuthServer] : Listen on 127.0.0.1:444
+[Thursday, January 08, 2015 9:00:18 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Thursday, January 08, 2015 9:00:19 pm][AuthServer] : Connection incoming from 127.0.0.1:42581
+[Thursday, January 08, 2015 9:00:20 pm][AuthSession(127.0.0.1:42581)] : Connection closed by client
+[Thursday, January 08, 2015 9:00:20 pm][WorldServer] : Connection incoming from 127.0.0.1:42582
+[Thursday, January 08, 2015 9:00:20 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Thursday, January 08, 2015 9:01:14 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Thursday, January 08, 2015 9:01:14 pm][Application] : Please wait, we load some data ..
+[Thursday, January 08, 2015 9:01:14 pm][Application] : Config loaded
+[Thursday, January 08, 2015 9:01:14 pm][AuthServer] : Listen on 127.0.0.1:444
+[Thursday, January 08, 2015 9:01:14 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Thursday, January 08, 2015 9:01:14 pm][Application] : Connected to database
+[Thursday, January 08, 2015 9:01:16 pm][AuthServer] : Connection incoming from 127.0.0.1:42610
+[Thursday, January 08, 2015 9:01:17 pm][AuthSession(127.0.0.1:42610)] : Connection closed by client
+[Thursday, January 08, 2015 9:01:18 pm][WorldServer] : Connection incoming from 127.0.0.1:42612
+[Thursday, January 08, 2015 9:01:18 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Thursday, January 08, 2015 9:01:46 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Thursday, January 08, 2015 9:01:46 pm][Application] : Please wait, we load some data ..
+[Thursday, January 08, 2015 9:01:46 pm][Application] : Config loaded
+[Thursday, January 08, 2015 9:01:46 pm][Application] : Connected to database
+[Thursday, January 08, 2015 9:01:46 pm][AuthServer] : Listen on 127.0.0.1:444
+[Thursday, January 08, 2015 9:01:46 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Thursday, January 08, 2015 9:01:48 pm][AuthServer] : Connection incoming from 127.0.0.1:42617
+[Thursday, January 08, 2015 9:01:49 pm][AuthSession(127.0.0.1:42617)] : Connection closed by client
+[Thursday, January 08, 2015 9:01:49 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Thursday, January 08, 2015 9:01:49 pm][WorldServer] : Connection incoming from 127.0.0.1:42618
+[Thursday, January 08, 2015 9:02:02 pm][ApproachHandler] : Character 'Xsbyc' created by player 'test'
+[Thursday, January 08, 2015 9:02:09 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Thursday, January 08, 2015 9:02:09 pm][Application] : Please wait, we load some data ..
+[Thursday, January 08, 2015 9:02:09 pm][Application] : Config loaded
+[Thursday, January 08, 2015 9:02:09 pm][Application] : Connected to database
+[Thursday, January 08, 2015 9:02:09 pm][AuthServer] : Listen on 127.0.0.1:444
+[Thursday, January 08, 2015 9:02:09 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Thursday, January 08, 2015 9:02:10 pm][AuthServer] : Connection incoming from 127.0.0.1:42623
+[Thursday, January 08, 2015 9:02:11 pm][AuthSession(127.0.0.1:42623)] : Connection closed by client
+[Thursday, January 08, 2015 9:02:11 pm][WorldServer] : Connection incoming from 127.0.0.1:42624
+[Thursday, January 08, 2015 9:02:11 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Thursday, January 08, 2015 9:02:17 pm][ApproachHandler] : Character 'Dfomx' created by player 'test'
+[Thursday, January 08, 2015 9:02:21 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Thursday, January 08, 2015 9:02:21 pm][Application] : Please wait, we load some data ..
+[Thursday, January 08, 2015 9:02:21 pm][Application] : Config loaded
+[Thursday, January 08, 2015 9:02:21 pm][Application] : Connected to database
+[Thursday, January 08, 2015 9:02:21 pm][AuthServer] : Listen on 127.0.0.1:444
+[Thursday, January 08, 2015 9:02:21 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Thursday, January 08, 2015 9:02:22 pm][AuthServer] : Connection incoming from 127.0.0.1:42630
+[Thursday, January 08, 2015 9:02:23 pm][AuthSession(127.0.0.1:42630)] : Connection closed by client
+[Thursday, January 08, 2015 9:02:23 pm][WorldServer] : Connection incoming from 127.0.0.1:42631
+[Thursday, January 08, 2015 9:02:23 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Thursday, January 08, 2015 9:13:51 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Thursday, January 08, 2015 9:13:51 pm][Application] : Please wait, we load some data ..
+[Thursday, January 08, 2015 9:13:51 pm][Application] : Config loaded
+[Thursday, January 08, 2015 9:13:51 pm][Application] : Connected to database
+[Thursday, January 08, 2015 9:13:51 pm][AuthServer] : Listen on 127.0.0.1:444
+[Thursday, January 08, 2015 9:13:51 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Thursday, January 08, 2015 9:13:53 pm][AuthServer] : Connection incoming from 127.0.0.1:42991
+[Thursday, January 08, 2015 9:13:54 pm][AuthSession(127.0.0.1:42991)] : Connection closed by client
+[Thursday, January 08, 2015 9:13:55 pm][WorldServer] : Connection incoming from 127.0.0.1:42992
+[Thursday, January 08, 2015 9:13:55 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Thursday, January 08, 2015 9:13:58 pm][ApproachHandler] : Character 'Xsbyc' spawn in world
+[Thursday, January 08, 2015 9:53:06 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Thursday, January 08, 2015 9:53:06 pm][Application] : Config loaded
+[Thursday, January 08, 2015 9:53:06 pm][Application] : Please wait, we load some data ..
+[Thursday, January 08, 2015 9:53:06 pm][Application] : Connected to database
+[Thursday, January 08, 2015 9:53:06 pm][AuthServer] : Listen on 127.0.0.1:444
+[Thursday, January 08, 2015 9:53:06 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Thursday, January 08, 2015 9:53:09 pm][AuthServer] : Connection incoming from 127.0.0.1:43250
+[Thursday, January 08, 2015 9:53:10 pm][AuthSession(127.0.0.1:43250)] : Connection closed by client
+[Thursday, January 08, 2015 9:53:10 pm][WorldServer] : Connection incoming from 127.0.0.1:43251
+[Thursday, January 08, 2015 9:53:10 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Thursday, January 08, 2015 9:53:13 pm][ApproachHandler] : Character 'Xsbyc' spawn in world
+[Thursday, January 08, 2015 9:54:44 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Thursday, January 08, 2015 9:54:44 pm][Application] : Please wait, we load some data ..
+[Thursday, January 08, 2015 9:54:44 pm][Application] : Config loaded
+[Thursday, January 08, 2015 9:54:44 pm][Application] : Connected to database
+[Thursday, January 08, 2015 9:54:44 pm][AuthServer] : Listen on 127.0.0.1:444
+[Thursday, January 08, 2015 9:54:44 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Thursday, January 08, 2015 9:54:46 pm][AuthServer] : Connection incoming from 127.0.0.1:43371
+[Thursday, January 08, 2015 9:54:49 pm][AuthSession(127.0.0.1:43371)] : Connection closed by client
+[Thursday, January 08, 2015 9:54:49 pm][WorldServer] : Connection incoming from 127.0.0.1:43373
+[Thursday, January 08, 2015 9:54:49 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Thursday, January 08, 2015 9:54:51 pm][ApproachHandler] : Character 'Xsbyc' spawn in world
+[Thursday, January 08, 2015 11:21:34 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Thursday, January 08, 2015 11:21:34 pm][Application] : Please wait, we load some data ..
+[Thursday, January 08, 2015 11:21:35 pm][Application] : Config loaded
+[Thursday, January 08, 2015 11:21:35 pm][Application] : Connected to database
+[Thursday, January 08, 2015 11:21:35 pm][AuthServer] : Listen on 127.0.0.1:444
+[Thursday, January 08, 2015 11:21:35 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Thursday, January 08, 2015 11:21:36 pm][AuthServer] : Connection incoming from 127.0.0.1:44491
+[Thursday, January 08, 2015 11:21:37 pm][AuthSession(127.0.0.1:44491)] : Connection closed by client
+[Thursday, January 08, 2015 11:21:37 pm][WorldServer] : Connection incoming from 127.0.0.1:44492
+[Thursday, January 08, 2015 11:21:37 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Thursday, January 08, 2015 11:21:39 pm][ApproachHandler] : Character 'Xsbyc' spawn in world
+[Thursday, January 08, 2015 11:24:21 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Thursday, January 08, 2015 11:24:21 pm][Application] : Config loaded
+[Thursday, January 08, 2015 11:24:21 pm][Application] : Please wait, we load some data ..
+[Thursday, January 08, 2015 11:24:21 pm][Application] : Connected to database
+[Thursday, January 08, 2015 11:24:21 pm][AuthServer] : Listen on 127.0.0.1:444
+[Thursday, January 08, 2015 11:24:21 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Thursday, January 08, 2015 11:24:22 pm][AuthServer] : Connection incoming from 127.0.0.1:44507
+[Thursday, January 08, 2015 11:24:24 pm][AuthSession(127.0.0.1:44507)] : Connection closed by client
+[Thursday, January 08, 2015 11:24:25 pm][WorldServer] : Connection incoming from 127.0.0.1:44508
+[Thursday, January 08, 2015 11:24:25 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Thursday, January 08, 2015 11:24:26 pm][ApproachHandler] : Character 'Xsbyc' spawn in world
+[Thursday, January 08, 2015 11:29:04 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Thursday, January 08, 2015 11:29:04 pm][Application] : Please wait, we load some data ..
+[Thursday, January 08, 2015 11:29:04 pm][Application] : Config loaded
+[Thursday, January 08, 2015 11:29:04 pm][Application] : Connected to database
+[Thursday, January 08, 2015 11:29:04 pm][AuthServer] : Listen on 127.0.0.1:444
+[Thursday, January 08, 2015 11:29:04 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Thursday, January 08, 2015 11:29:05 pm][AuthServer] : Connection incoming from 127.0.0.1:44519
+[Thursday, January 08, 2015 11:29:06 pm][AuthSession(127.0.0.1:44519)] : Connection closed by client
+[Thursday, January 08, 2015 11:29:06 pm][WorldServer] : Connection incoming from 127.0.0.1:44520
+[Thursday, January 08, 2015 11:29:06 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Thursday, January 08, 2015 11:29:08 pm][ApproachHandler] : Character 'Xsbyc' spawn in world
