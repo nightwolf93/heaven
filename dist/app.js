@@ -220,7 +220,23 @@ var Heaven;
             function Player(session, character) {
                 this.session = session;
                 this.character = character;
+                this.state = 0;
             }
+            Player.prototype.motd = function () {
+                var str = Heaven.Application.config.get().general.motd;
+                str = str.replace('%version%', Heaven.Definitions.getVersionString());
+                str = str.replace('%owner%', Heaven.Definitions.author);
+                this.message(str);
+                if (this.hasAdminRights()) {
+                }
+            };
+            Player.prototype.message = function (msg, color) {
+                if (color === void 0) { color = '#f00000'; }
+                this.session.send("cs<font color=\"" + color + "\">" + msg + "</font>");
+            };
+            Player.prototype.hasAdminRights = function () {
+                return this.session.account.roleId > 0;
+            };
             return Player;
         })();
         Game.Player = Player;
@@ -335,6 +351,9 @@ var Heaven;
                         session.send('GCK|1|' + session.player.character.name);
                         session.send('cC+*#$pi:?%');
                         session.send('AR6bk');
+                        if (session.player.state == 0) {
+                            session.player.motd();
+                        }
                         break;
                 }
             };

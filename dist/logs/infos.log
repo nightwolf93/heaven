@@ -1096,3 +1096,66 @@
 [Thursday, January 08, 2015 11:29:06 pm][WorldServer] : Connection incoming from 127.0.0.1:44520
 [Thursday, January 08, 2015 11:29:06 pm][ApproachHandler] : Account 'test' logged on worldserver
 [Thursday, January 08, 2015 11:29:08 pm][ApproachHandler] : Character 'Xsbyc' spawn in world
+[Thursday, January 08, 2015 11:36:06 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Thursday, January 08, 2015 11:36:06 pm][Application] : Please wait, we load some data ..
+[Thursday, January 08, 2015 11:36:06 pm][Application] : Config loaded
+[Thursday, January 08, 2015 11:36:06 pm][Application] : Connected to database
+[Thursday, January 08, 2015 11:36:06 pm][AuthServer] : Listen on 127.0.0.1:444
+[Thursday, January 08, 2015 11:36:06 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Thursday, January 08, 2015 11:36:09 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Thursday, January 08, 2015 11:36:09 pm][Application] : Please wait, we load some data ..
+[Thursday, January 08, 2015 11:36:09 pm][Application] : Config loaded
+[Thursday, January 08, 2015 11:36:09 pm][Application] : Connected to database
+[Thursday, January 08, 2015 11:36:09 pm][AuthServer] : Listen on 127.0.0.1:444
+[Thursday, January 08, 2015 11:36:09 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Thursday, January 08, 2015 11:36:10 pm][AuthServer] : Connection incoming from 127.0.0.1:44591
+[Thursday, January 08, 2015 11:36:13 pm][AuthSession(127.0.0.1:44591)] : Connection closed by client
+[Thursday, January 08, 2015 11:36:13 pm][WorldServer] : Connection incoming from 127.0.0.1:44592
+[Thursday, January 08, 2015 11:36:13 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Thursday, January 08, 2015 11:36:15 pm][ApproachHandler] : Character 'Xsbyc' spawn in world
+[Thursday, January 08, 2015 11:36:45 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Thursday, January 08, 2015 11:36:45 pm][Application] : Please wait, we load some data ..
+[Thursday, January 08, 2015 11:36:45 pm][Application] : Config loaded
+[Thursday, January 08, 2015 11:36:45 pm][Application] : Connected to database
+[Thursday, January 08, 2015 11:36:45 pm][AuthServer] : Listen on 127.0.0.1:444
+[Thursday, January 08, 2015 11:36:45 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Thursday, January 08, 2015 11:36:48 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Thursday, January 08, 2015 11:36:48 pm][Application] : Please wait, we load some data ..
+[Thursday, January 08, 2015 11:36:48 pm][Application] : Config loaded
+[Thursday, January 08, 2015 11:36:48 pm][Application] : Connected to database
+[Thursday, January 08, 2015 11:36:48 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Thursday, January 08, 2015 11:36:48 pm][AuthServer] : Listen on 127.0.0.1:444
+[Thursday, January 08, 2015 11:36:49 pm][AuthServer] : Connection incoming from 127.0.0.1:44598
+[Thursday, January 08, 2015 11:36:50 pm][AuthSession(127.0.0.1:44598)] : Connection closed by client
+[Thursday, January 08, 2015 11:36:50 pm][WorldServer] : Connection incoming from 127.0.0.1:44599
+[Thursday, January 08, 2015 11:36:50 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Thursday, January 08, 2015 11:36:52 pm][ApproachHandler] : Character 'Xsbyc' spawn in world
+[Thursday, January 08, 2015 11:38:57 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Thursday, January 08, 2015 11:38:57 pm][Application] : Please wait, we load some data ..
+[Thursday, January 08, 2015 11:38:57 pm][Application] : Config loaded
+[Thursday, January 08, 2015 11:38:57 pm][Application] : Connected to database
+[Thursday, January 08, 2015 11:38:57 pm][AuthServer] : Listen on 127.0.0.1:444
+[Thursday, January 08, 2015 11:38:57 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Thursday, January 08, 2015 11:39:15 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Thursday, January 08, 2015 11:39:15 pm][Application] : Please wait, we load some data ..
+[Thursday, January 08, 2015 11:39:15 pm][Application] : Connected to database
+[Thursday, January 08, 2015 11:39:15 pm][AuthServer] : Listen on 127.0.0.1:444
+[Thursday, January 08, 2015 11:39:15 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Thursday, January 08, 2015 11:39:15 pm][Application] : Config loaded
+[Thursday, January 08, 2015 11:39:17 pm][AuthServer] : Connection incoming from 127.0.0.1:44604
+[Thursday, January 08, 2015 11:39:19 pm][AuthSession(127.0.0.1:44604)] : Connection closed by client
+[Thursday, January 08, 2015 11:39:20 pm][WorldServer] : Connection incoming from 127.0.0.1:44605
+[Thursday, January 08, 2015 11:39:20 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Thursday, January 08, 2015 11:39:22 pm][ApproachHandler] : Character 'Xsbyc' spawn in world
+[Thursday, January 08, 2015 11:39:58 pm][Application] : Starting Heaven v1.0.0.0 ..
+[Thursday, January 08, 2015 11:39:58 pm][Application] : Please wait, we load some data ..
+[Thursday, January 08, 2015 11:39:58 pm][Application] : Config loaded
+[Thursday, January 08, 2015 11:39:58 pm][Application] : Connected to database
+[Thursday, January 08, 2015 11:39:58 pm][AuthServer] : Listen on 127.0.0.1:444
+[Thursday, January 08, 2015 11:39:58 pm][WorldServer] : Listen on 127.0.0.1:5556
+[Thursday, January 08, 2015 11:39:58 pm][AuthServer] : Connection incoming from 127.0.0.1:44611
+[Thursday, January 08, 2015 11:39:59 pm][AuthSession(127.0.0.1:44611)] : Connection closed by client
+[Thursday, January 08, 2015 11:40:00 pm][WorldServer] : Connection incoming from 127.0.0.1:44612
+[Thursday, January 08, 2015 11:40:00 pm][ApproachHandler] : Account 'test' logged on worldserver
+[Thursday, January 08, 2015 11:40:02 pm][ApproachHandler] : Character 'Xsbyc' spawn in world
+[Thursday, January 08, 2015 11:42:50 pm][WorldSession(127.0.0.1:44612)] : Connection closed by client

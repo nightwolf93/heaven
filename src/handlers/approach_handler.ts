@@ -117,6 +117,10 @@ module Heaven.Handlers {
             session.send('GCK|1|' + session.player.character.name);
             session.send('cC+*#$pi:?%');
             session.send('AR6bk');
+
+            if(session.player.state == 0){
+              session.player.motd();
+            }
             break;
       }
     }

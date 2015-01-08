@@ -1,6 +1,7 @@
 general:
   name: 'Heaven'
   owner: 'Nightwolf'
+  motd: "Welcome on <b>Heaven</b> v%version% by <b>%owner%</b>"
 
 network:
   auth:
